@@ -1,0 +1,8 @@
+---
+title: practica 3
+date: 2026-09-14 ? +?
+categories: [PRACTICA]
+tags: [local_nav, python]
+---
+
+# PRACTICA 3
